@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+tensorflow
+numpy
+pickle
+gunicorn
+uvloop
